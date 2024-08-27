@@ -1,0 +1,739 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topHeader {
+    background: url(images/Tesla-homepage1.avif);
+    background-size: cover;
+    width: 100%;
+    height: 120vh;
+    padding-top: 10px;
+
+}
+
+nav {
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.teslaLogo {
+    width: 120px;
+    height: 24px;
+    margin-left: 18px;
+    cursor: pointer;
+    color: white;
+
+}
+
+nav ul {
+    flex: 1;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 10px 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+
+}
+
+.headerText {
+    position: relative;
+    left: 355px;
+}
+
+nav button {
+
+    margin-right: 18px;
+    padding: 10px;
+}
+
+.headerIcons {
+    position: relative;
+    left: 760px;
+}
+
+.model3 {
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 150px;
+}
+
+.modelName {
+    font-size: 53px;
+}
+
+.financeOf1 {
+    font-size: 30px;
+    position: relative;
+    top: -45px;
+
+}
+
+.priceOf1 {
+    font-size: 20px;
+    position: relative;
+    top: -80px;
+}
+
+.button1 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 385px;
+    gap: 10px;
+
+
+
+}
+
+.btn1 {
+    background-color: #3e6ae1;
+    color: white;
+    margin: 10px;
+    position: relative;
+    top: 10px;
+    height: 40px;
+    padding-top: 15px;
+    width: 15rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+
+}
+
+.btn2 {
+    background-color: #ffffff;
+    color: rgb(10, 10, 10);
+    margin: 10px;
+    position: relative;
+    top: 10px;
+    height: 40px;
+    padding-top: 15px;
+    width: 15rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+/* } **********************First section over here************************** */
+.topHeader2 {
+    background-image: url(images/Tesla-Homepage2.avif);
+    background-size: cover;
+    width: 100%;
+    height: 120vh;
+    padding-top: 10px;
+
+}
+
+.ModelY {
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 150px;
+}
+
+.modelName {
+    font-size: 53px;
+}
+
+.financeOf2 {
+    font-size: 30px;
+    position: relative;
+    top: -45px;
+
+}
+
+.priceOf2 {
+    font-size: 20px;
+    position: relative;
+    top: -80px;
+}
+
+.button2 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 385px;
+    gap: 10px;
+
+
+
+}
+
+.btn1in2 {
+    background-color: #3e6ae1;
+    color: white;
+    margin: 10px;
+    position: relative;
+    top: 10px;
+    height: 40px;
+    padding-top: 15px;
+    width: 15rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+
+}
+
+.btn2in2 {
+    background-color: #ffffff;
+    color: rgb(10, 10, 10);
+    margin: 10px;
+    position: relative;
+    top: 10px;
+    height: 40px;
+    padding-top: 15px;
+    width: 15rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+
+}
+
+/*  **********************second section over here************************** */
+.topHeader3 {
+    background-image: url(images/Tesla-Homepage3.avif);
+    background-size: cover;
+    width: 100%;
+    height: 120vh;
+    padding-top: 10px;
+
+}
+
+.ModelX {
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 55px;
+}
+
+.modelName {
+    font-size: 53px;
+}
+
+.financeOf3 {
+    font-size: 17px;
+    font-family: sans-serif;
+    position: relative;
+    top: -45px;
+
+}
+
+.financeOf1in3 {
+    font-size: 18px;
+    font-family: sans-serif;
+    position: relative;
+    top: -60px;
+
+}
+
+.priceOf3 {
+    font-size: 30px;
+    position: relative;
+    top: -30px;
+}
+
+.button3 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 385px;
+    gap: 10px;
+
+
+
+}
+
+.btn1in3 {
+    background-color: #3e6ae1;
+    color: white;
+    margin: 10px;
+    position: relative;
+    top: 10px;
+    height: 40px;
+    padding-top: 15px;
+    width: 15rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+
+}
+
+.btn2in3 {
+    background-color: #ffffff;
+    color: rgb(10, 10, 10);
+    margin: 10px;
+    position: relative;
+    top: 10px;
+    height: 40px;
+    padding-top: 15px;
+    width: 15rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+
+}
+
+/*  **********************Third section over here************************** */
+.topHeader4 {
+    background-image: url(images/Tesla-Homepage4.avif);
+    background-size: cover;
+    width: 100%;
+    height: 120vh;
+    padding-top: 10px;
+
+}
+
+.ModelS {
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 150px;
+}
+
+.modelName {
+    font-size: 53px;
+}
+
+.financeOf4 {
+    font-size: 18px;
+    position: relative;
+    top: -45px;
+
+}
+
+.priceOf4 {
+    font-size: 30px;
+    position: relative;
+    top: -30px;
+}
+
+.button4 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 480px;
+    gap: 10px;
+
+
+
+}
+
+.btn1in4 {
+    background-color: #3e6ae1;
+    color: white;
+    margin: 10px;
+    position: relative;
+    top: 10px;
+    height: 40px;
+    padding-top: 15px;
+    width: 15rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+
+}
+
+.btn2in4 {
+    background-color: #ffffff;
+    color: rgb(10, 10, 10);
+    margin: 10px;
+    position: relative;
+    top: 10px;
+    height: 40px;
+    padding-top: 15px;
+    width: 15rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+/*  **********************fourth section over here************************** */
+.topHeader5 {
+    background-image: url(/images/Tesla-Homepage5.avif);
+    background-size: cover;
+    width: 100%;
+    height: 120vh;
+    padding-top: 10px;
+
+}
+
+.Model5 {
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 150px;
+}
+
+.modelName {
+    font-size: 53px;
+}
+
+.financeOf5 {
+    font-size: 30px;
+    text-underline-offset: 4px;
+    position: relative;
+    top: -45px;
+
+}
+
+.priceOf5 {
+    font-size: 20px;
+    position: relative;
+    top: -80px;
+}
+
+.button5 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 480px;
+    gap: 10px;
+
+
+
+}
+
+.btn1in5 {
+    background-color: #1e1f20;
+    color: white;
+    margin: 10px;
+    position: relative;
+    top: 10px;
+    height: 40px;
+    padding-top: 15px;
+    width: 15rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+
+}
+
+.btn2in5 {
+    background-color: hsla(0, 0%, 7%, .5);
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    position: relative;
+    top: 10px;
+    height: 40px;
+    padding-top: 15px;
+    width: 15rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+
+}
+
+/*  **********************fifth section over here************************** */
+.topHeader6 {
+    background-image: url(images/Tesla-Homepage6.avif);
+    background-size: cover;
+    width: 100%;
+    height: 120vh;
+    padding-top: 10px;
+
+}
+
+.solarPanels {
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 150px;
+}
+
+.modelName {
+    font-size: 53px;
+}
+
+.financeOf6 {
+    font-size: 30px;
+    position: relative;
+    top: -35px;
+}
+
+.priceOf5 {
+    font-size: 20px;
+    position: relative;
+    top: -80px;
+    text-underline-offset: 4px;
+    ;
+}
+
+.button6 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 585px;
+    gap: 10px;
+
+
+
+}
+
+.btn1in6 {
+    background-color: #3e6ae1;
+    color: white;
+    margin: 10px;
+    position: relative;
+    top: 10px;
+    height: 40px;
+    padding-top: 15px;
+    width: 15rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+
+}
+
+.btn2in6 {
+    background-color: #ffffff;
+    color: rgb(10, 10, 10);
+    margin: 10px;
+    position: relative;
+    top: 10px;
+    height: 40px;
+    padding-top: 15px;
+    width: 15rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+
+}
+
+/*  **********************sixth section over here************************** */
+.topHeader7 {
+    background-image: url(images/Tesla-Homepage7.avif);
+    background-size: cover;
+    width: 100%;
+    height: 120vh;
+    padding-top: 10px;
+
+}
+
+.solarPanels {
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 150px;
+}
+
+.modelName {
+    font-size: 53px;
+}
+
+.financeOf7 {
+    font-size: 30px;
+    position: relative;
+    top: -35px;
+}
+
+.priceOf7 {
+    font-size: 20px;
+    position: relative;
+    top: -80px;
+    text-underline-offset: 4px;
+    ;
+}
+
+.button7 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 585px;
+    gap: 10px;
+
+
+
+}
+
+.btn1in7 {
+    background-color: #3e6ae1;
+    color: white;
+    margin: 10px;
+    position: relative;
+    top: 10px;
+    height: 40px;
+    padding-top: 15px;
+    width: 15rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+
+}
+
+.btn2in7 {
+    background-color: #ffffff;
+    color: rgb(10, 10, 10);
+    margin: 10px;
+    position: relative;
+    top: 10px;
+    height: 40px;
+    padding-top: 15px;
+    width: 15rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+
+}
+
+/*  **********************seventh section over here************************** */
+.topHeader8 {
+    background-image: url(images/Tesla-Homepage8.avif);
+    background-size: cover;
+    width: 100%;
+    height: 120vh;
+    padding-top: 10px;
+
+}
+
+.powerwall {
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 150px;
+}
+
+.modelName {
+    font-size: 53px;
+}
+
+.button8 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 480px;
+    gap: 10px;
+
+
+
+}
+
+.btn1in8 {
+    background-color: #3e6ae1;
+    color: white;
+    margin: 10px;
+    position: relative;
+    top: 10px;
+    height: 40px;
+    padding-top: 15px;
+    width: 15rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+
+}
+
+.btn2in8 {
+    background-color: #ffffff;
+    color: rgb(10, 10, 10);
+    margin: 10px;
+    position: relative;
+    top: 10px;
+    height: 40px;
+    padding-top: 15px;
+    width: 15rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+
+}
+
+/*  **********************eigth section over here************************** */
+.topHeader9 {
+    background-image: url(images/Tesla-Homepage9.avif);
+    background-size: cover;
+    width: 100%;
+    height: 120vh;
+    padding-top: 10px;
+
+}
+
+.accessories {
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 150px;
+}
+
+.modelName {
+    font-size: 53px;
+}
+
+.button9 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 450px;
+    gap: 10px;
+
+}
+
+.button9 .btn1in9 {
+
+    background-color: #3e6ae1;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    position: relative;
+    top: 10px;
+    height: 40px;
+    padding-top: 15px;
+    width: 15rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+/*  ********************** nineth section over here************************** */
+.footer {
+    padding: 50px;
+    width: 100%;
+    background-color: black;
+    margin-right: 300px;
+    font-size: 12px;
+    text-align: center;
+    line-height: 20px;
+    color: #D5D5D5;
+}
+
+.para1,
+.para2,
+.para3,
+.para4 {
+    margin-bottom: 25px;
+}
+
+.underSection {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 60px;
+
+}
